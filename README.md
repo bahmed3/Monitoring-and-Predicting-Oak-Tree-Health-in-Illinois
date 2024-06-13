@@ -132,6 +132,7 @@ The project requires the following Python packages:
 Install these packages using `pip`:
 ```bash
 pip install -r requirements.txt
+```
 
 ## Data Sources
 
