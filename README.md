@@ -146,4 +146,4 @@ pip install -r requirements.txt
 
 ## Interactive Dashboard
 
-You can view the interactive Tableau dashboard [here](#).
+You can view the interactive Tableau dashboard [here](https://public.tableau.com/views/OakEcosystemsHistoricalandPredictiveAnalysis/page1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
